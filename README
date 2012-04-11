@@ -1,0 +1,6 @@
+Use the following commands to sync with master:
+git remote add --track master origin git@github.com:ericchangzmm/gitTest.git
+git remote
+git fetch origin
+git merge origin/master
+git push
